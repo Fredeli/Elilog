@@ -217,8 +217,8 @@ header {
     }
   }
 
-  .button1 {
-    position:fixed;
+  .button {
+    position:relative;
     left:50%;
     margin-left:-325px;
     padding: 10px 12px;
@@ -228,16 +228,6 @@ header {
     background-color: #FFE788;
   }
 
-  .button2 {
-    position:fixed;
-    left:70%;
-    margin-left:-325px;
-    padding: 10px 12px;
-    margin-top: 6px;
-    line-height:14px;
-    font-size:14px;
-    background-color: #FFE788;
-  }
 
   .downloads {
     float: right;
