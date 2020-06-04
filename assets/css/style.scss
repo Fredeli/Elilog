@@ -2,38 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
-
-@Fredeli
-pages-themes
-/
-leap-day
-3
-109
-253
- Code
- Issues 1
- Pull requests 0 Actions
- Security 0
- Insights
-leap-day/_sass/jekyll-theme-leap-day.scss
-@alexroseb alexroseb Darken body text
-bb52596 on 9 Nov 2018
-@lambdacasserole@alexroseb@benbalter
-516 lines (434 sloc)  7.87 KB
-
-/*
-Leap Day for GitHub Pages
-by Matt Graham
-*/
-
 @import "normalize";
 @import "fonts";
 @import "rouge-base16-dark";
