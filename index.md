@@ -1,44 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to my Blog
 
-You can use the [editor on GitHub](https://github.com/Fredeli/Elilog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello there,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Test Formula
-\\[\frac{\partial f(y)}{\partial x} = \frac{\partial f}{\partial y} \times \frac{\partial y}{\partial x}\\] 
-
-$$\LaTeX code$$   (for display)
-\\[\LaTeX code\\] (also for display)
-\\(\LaTeX code\\) (for inline)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fredeli/Elilog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+i welcome you to my Blog, which as of today was started at the 06.06.2020. Currently i am not to sure about what topics i will be talking about here but most certainly many articles will deal with the topic of machine learning (since i am not only very interested in this topic but also am doing my PhD about it). I hope you learn something new here and if you have any suggestions, problems (of any kind, really) feel free to write me an email. You can find my Email [here](https://fredeli.github.io/Elilog/about).
