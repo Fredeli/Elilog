@@ -5,10 +5,7 @@ You can use the [editor on GitHub](https://github.com/Fredeli/Elilog/edit/master
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Test Formula
-
-You can use $$\LaTeX$$ to typeset formulas. A formula can be displayed inline, e.g. $$e=mc^2$$, or as a block:
-$$\int_\Omega \nabla u \cdot \nabla v~dx = \int_\Omega fv~dx$$
-Also check out this [LaTeX introduction](https://en.wikibooks.org/wiki/LaTeX/Mathematics).
+$$\frac{\partial f(y)}{\partial x} = \frac{\partial f}{\partial y} \times \frac{\partial y}{\partial x}$$
 
 ### Markdown
 
