@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/Fredeli/Elilog/edit/master
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Test Formula
-$$\frac{\partial f(y)}{\partial x} = \frac{\partial f}{\partial y} \times \frac{\partial y}{\partial x}$$
+\\[\frac{\partial f(y)}{\partial x} = \frac{\partial f}{\partial y} \times \frac{\partial y}{\partial x}\\] 
 
 $$\LaTeX code$$   (for display)
 \\[\LaTeX code\\] (also for display)
