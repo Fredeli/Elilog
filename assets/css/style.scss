@@ -201,7 +201,8 @@ header {
     background-color: #FFE788;
     margin-left: 5px;
     padding: 10px 12px;
-    margin-top: 6px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     line-height:14px;
     font-size:14px;
     color:#333;
@@ -213,6 +214,11 @@ header {
       background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
       background-color: #ffeca0;
     }
+
+    &:focus {
+      background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
+      background-color: #115ca0;
+    }
   }
 
   .button_position {
@@ -220,10 +226,11 @@ header {
     left:0;
     margin-left:10px;
     margin-right:10px;
-    padding: 10px 12px;
-    margin-top: 6px;
+    padding: 20px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     line-height:14px;
-    font-size:14px;
+    font-size:17px;
     background-color: #FFE788;
   }
 

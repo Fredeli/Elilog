@@ -1,7 +1,2 @@
-# frozen_string_literal: true
-
 source 'https://rubygems.org'
-
-gem 'jekyll-relative-links'
-
-gemspec
+gem 'github-pages', group: :jekyll_plugins
